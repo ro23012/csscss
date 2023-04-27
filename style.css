@@ -1,0 +1,13 @@
+/* h1{
+    color: blue; 
+} */
+
+
+h1,p{
+    background-color: #4590898d;
+    color: rgb(0, 0, 0);
+}
+
+ul{
+    background-color: rgba(102, 255, 0, 0.557);
+}
